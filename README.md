@@ -1,5 +1,5 @@
 # weather-rest-service
-Software that displays accurate weather results to the user for any location in the country. The application makes web requests to receive data from the RESTful APIs of TWC and works with the GSON library to parse the data onto a basic UI.
+I created a fully functioning front and back end weather application by using GSON, a Java API, I was able to call the API of The Weather Channel and parse the JSON object returned into a Java Object. Around this I build a very basic user interface using Java’s Swing toolkit to allow a user to easily get weather data based on input from any location, through city name or zip-code, in the United States.
 
 The Source code is included HOWEVER there is also a JAR file included that runs without any IDE. 
 
